@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: study-pkg
+Version: 0.0.0
+Summary: TODO: Package description
+Maintainer: infinion
+Maintainer-email: infinion@todo.todo
+License: TODO: License declaration
+Provides-Extra: test

@@ -1,0 +1,2 @@
+[console_scripts]
+second_node = study_pkg.scripts.second_node:main
