@@ -24,7 +24,8 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'second_node = study_pkg.scripts.second_node:main'
+            'talker = study_pkg.scripts.talker:main',
+            'listener = study_pkg.scripts.listener:main',
         ],
     },
 )
